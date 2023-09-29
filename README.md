@@ -1,27 +1,11 @@
 # AngularDarkTheme
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+Esee projeto busca implementar a funcionalidade de tema escuro no site de exemplo, permitindo que o usuário mude o tema do site apenas clicando em um botão, sem que seja necessário recarregar a aplicação, podendo assim escolher entre o tema claro ou escuro.
 
-## Development server
+## Acesso
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Acesse o app pela sua página do GitHub Pages através deste [link](https://victor-stefano.github.io/angular-dark-theme/).
 
-## Code scaffolding
+## Informações
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esse projeto foi gerado com [Angula CLI](https://github.com/angular/angular-cli) versão 16.2.3.

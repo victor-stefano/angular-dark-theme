@@ -1,6 +1,6 @@
 # AngularDarkTheme
 
-Esee projeto busca implementar a funcionalidade de tema escuro no site de exemplo, permitindo que o usuário mude o tema do site apenas clicando em um botão, sem que seja necessário recarregar a aplicação, podendo assim escolher entre o tema claro ou escuro.
+Esse projeto busca implementar a funcionalidade de tema escuro no site de exemplo, permitindo que o usuário mude o tema do site apenas clicando em um botão, sem que seja necessário recarregar a aplicação, podendo assim escolher entre o tema claro ou escuro.
 
 ## Acesso
 
